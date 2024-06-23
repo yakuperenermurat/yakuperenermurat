@@ -5,10 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yakuperenermurat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakuperenermurat/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yakuperenermurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakuperenermurat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yakuperenermurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yakuperenermurat" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">About Me:</h3>
 <p align="left">
 I graduated from Karadeniz Technical University with a degree in Software Engineering in 2024. Currently, I am taking a Full Stack Developer course at Patika.dev and participating in Java bootcamps. I am improving my skills in various areas such as microservices architecture, SOLID principles, Spring Boot, JavaScript, and design patterns. I am eager to take on opportunities where I can further develop myself.
