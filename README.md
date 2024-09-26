@@ -27,9 +27,12 @@ I graduated from Karadeniz Technical University with a degree in Software Engine
 
 <h3 align="left">Certifications:</h3>
 <ul>
-  <li>Java SE and Object-Oriented Programming (30.5 Hours)- Patika+ Full Stack Web Development Bootcamp Trainee - Patika.dev</li>
-  <li>SQL and RDBMS (Relational Databases) - Udemy Course by Mimar Aslan (17 Hours)</li>
+  <li>Patika+ Full Stack Web Development Bootcamp Trainee - Patika.dev</li>
+  <li>Java SE and Object-Oriented Programming, Instructor: Mimar Aslan Udemy Course, Total (30.5 Hours)</li>
+  <li>SQL and RDBMS (Relational Databases), Instructor: Mimar Aslan Udemy Course, Total (17 Hours) </li>
   <li>ORM with JPA/Hibernate - Udemy Course by Mimar Aslan (18.5 Hours)</li>
+  <li>Spring Boot ve Spring Data JPA, Instructor: Mimar Aslan Udemy Course, Total (20.5 Hours)</li>
+  <li>Java Microservices Mimarisi ve Spring Cloud , Instructor: Mimar Aslan Udemy Course, Total (30 Hours)</li>
 </ul>
 
 <h3 align="left">Skills:</h3>
